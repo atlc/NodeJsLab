@@ -1,7 +1,7 @@
 const path = require('path');   // Used to construct paths
 const fs = require('fs');       // Used to access FileSystem
 
-// Creates timestamp upon loading, styled as 
+// Creates timestamp upon loading, stylized as 
 //    Mon Oct 01 2018, 16:30
 let d = new Date();
 let timestamp = `${d.toDateString()}, ${d.getHours()}:${d.getMinutes()}`;
