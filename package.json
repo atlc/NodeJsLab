@@ -1,0 +1,11 @@
+{
+  "name": "nodejslab",
+  "version": "1.0.0",
+  "description": "Testing my first node project!",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Cartwright",
+  "license": "ISC"
+}

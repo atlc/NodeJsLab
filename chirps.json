@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "author": "Andrew Cartwright",
+    "username": "atlc",
+    "timestamp": "Mon Oct 01 2018, 9:2",
+    "body": "Hello wooooorld!"
+  },
+  {
+    "id": 2,
+    "author": "Andrew Cartwright",
+    "username": "atlc",
+    "timestamp": "Mon Oct 01 2018, 9:2",
+    "body": "Can't believe I'm this far in my @CovalenceIO coursework already!"
+  },
+  {
+    "id": 3,
+    "author": "Andrew Cartwright",
+    "username": "atlc",
+    "timestamp": "Mon Oct 01 2018, 9:2",
+    "body": "Thanks for all the hard work you do, @nodejs team!!"
+  },
+  {
+    "id": 4,
+    "author": "Andrew Cartwright",
+    "username": "atlc",
+    "timestamp": "Mon Oct 01 2018, 9:2",
+    "body": "Fork this project's @github repo at https://github.com/atlc/NodeJsLab"
+  },
+  {
+    "id": 5,
+    "author": "Andrew Cartwright",
+    "username": "atlc",
+    "timestamp": "Mon Oct 01 2018, 9:2",
+    "body": "TEST TWEET BOTTOMTEXT"
+  }
+]
