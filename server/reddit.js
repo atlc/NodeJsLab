@@ -3,7 +3,7 @@ const fs = require('fs');       // Used to access FileSystem
 const request = require('request-promise'); // Used for making requests
 
 // Creates absolute path to my reddit data file
-let popularDataPath = path.join(__dirname, './popular-articles.json');
+let popularDataPath = path.join(__dirname, '../popular-articles.json');
 
 request('https://reddit.com/r/popular.json', (error, res, body) => {
     let articles = [];
@@ -11,6 +11,7 @@ request('https://reddit.com/r/popular.json', (error, res, body) => {
     if (error) console.log(error);
     
     JSON.parse(body).data.children.forEach(article => {
+        debugger;
         let extractedArticle = {
             "title": article.data.title,
             "url": article.data.url,
